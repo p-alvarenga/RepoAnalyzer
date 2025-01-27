@@ -1,4 +1,3 @@
-```readme
 # RepoAnalyzer
 
 > A GitHub public repository analyzer that does not require you to connect your GitHub account. You can search for public repositories and get insights into their performance.
@@ -45,4 +44,3 @@ Feel free to open an issue or submit a pull request if you'd like to contribute!
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
-```
